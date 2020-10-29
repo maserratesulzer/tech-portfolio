@@ -2,13 +2,11 @@
 id: projects
 title: Projects
 ---
+Mobile game project on unity
 
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Will be available for iOS and Android
 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/Capture.JPG.jpg)
