@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Marco A Serrate S', // Title for your website.
-    tagline: 'Hard working programmer, dedicated, responsable.',
+    title: 'Marco A Serrate', // Title for your website.
+    tagline: 'Skilled programmer, dedicated, responsable.',
     profilePhoto: 'img/profile.png',
     url: 'https://maserratesulzer.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
